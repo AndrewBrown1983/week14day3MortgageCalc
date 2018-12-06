@@ -1,0 +1,11 @@
+.main-container{
+  background-color: #69C45F;
+  border-radius: 5%;
+  border: solid 4px grey;
+  position: fixed;
+  width: 75%;
+  height: 75%;
+  position: fixed;
+  align-content: center;
+
+}
